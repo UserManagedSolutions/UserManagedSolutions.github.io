@@ -1,16 +1,19 @@
 ## Welcome to inPerson
 
-Welcome to inPerson! 
-- Plan your flexible office hours and set reminders in Outlook 
+Welcome to inPerson!
+
+inPerson is an app for Microsoft Teams that allows you to:
+- Manage your in-person flexible office hours and set reminders in Outlook 
 - Locate your reserved space on the floor plan and assess social distancing
-- Locate your teammates
+- Look up your team members' current location
 
 ![Space reservation on Teams](http://appsource.usermanagedsolutions.com/FloorPlan%20Space%20Reservation%20in%20Teams.png)
 
 ### What inPerson does
 
-This app allows you to register floor plans and tag each space as shared or designated. Shared spaces are self-service that users can book, while designated spaces are assigned by the admins.
-Users can then leverage the information to connect with teammates, and make decisions about being present in the office on a given day.
+First, register floor plans and tag each space as shared or designated. Shared spaces are self-service that users can book, while designated spaces are assigned by the admins.
+
+Users can then leverage the floor plans to book office space, and make decisions about being present in the office on a given day.
 
 ### Installation
 
@@ -25,3 +28,7 @@ You can then start registering buildings, adding floor plans, and flagging each 
 ### Privacy Policy
 
 The Privacy Policy is [available in pdf format](http://appsource.usermanagedsolutions.com/inPerson%20Privacy%20Policy.pdf).
+
+### Terms of Use
+
+The Terms of Use are [available in pdf format](http://appsource.usermanagedsolutions.com/inPerson%20Terms%20of%20Use.pdf).
