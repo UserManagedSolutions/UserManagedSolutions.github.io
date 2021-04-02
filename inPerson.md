@@ -1,6 +1,4 @@
-## Welcome to inPerson
-
-Welcome to inPerson!
+## Welcome to inPerson!
 
 inPerson is an app for Microsoft Teams that allows you to:
 - Manage your in-person flexible office hours and set reminders in Outlook 
