@@ -1,4 +1,4 @@
- ![User Managed Solutions LLC Logo](http://appsource.usermanagedsolutions.com/UMSonline.png)
+ ![User Managed Solutions LLC Logo](UMSonline.png)
  
  Since 2011, User Managed Solutions LLC has been helping users, makers and citizen developers in their discovery path to SharePoint and Microsoft 365.
  
