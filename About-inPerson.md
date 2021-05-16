@@ -5,7 +5,7 @@ inPerson is an app for Microsoft Teams that allows you to:
 - Locate your reserved space on the floor plan and assess social distancing
 - Look up your team members' current location
 
-![Space reservation on Teams](https://UserManagedSolutions.github.io/FloorPlan%20Space%20Reservation%20in%20Teams.png)
+![Space reservation on Teams](FloorPlan%20Space%20Reservation%20in%20Teams.png)
 
 ### What inPerson does
 
@@ -32,8 +32,8 @@ You can then start registering buildings, adding floor plans, and flagging each 
 
 ### Privacy Policy
 
-The Privacy Policy is [available in pdf format](https://UserManagedSolutions.github.io/inPerson%20Privacy%20Policy.pdf).
+The Privacy Policy is [available in pdf format](inPerson%20Privacy%20Policy.pdf).
 
 ### Terms of Use
 
-The Terms of Use are [available in pdf format](https://UserManagedSolutions.github.io/inPerson%20Terms%20of%20Use.pdf).
+The Terms of Use are [available in pdf format](inPerson%20Terms%20of%20Use.pdf).
