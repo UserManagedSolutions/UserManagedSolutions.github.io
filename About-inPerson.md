@@ -15,8 +15,8 @@ Users can then leverage the floor plans to book office space, and make decisions
 
 ### The value proposition
 
-The inPerson app is entirely built on the Microsoft 365.
-- Security: data is entirely stored in Microsoft 365, with access restricted to team members.
+The inPerson app is entirely built on Microsoft 365.
+- Security: data is stored in Microsoft 365, with access restricted to team members.
 - Users can easily extend the app with their own customizations, such as list views, Power Automate workflows, or Power BI reports.
 - No proprietary format. Users can bring their own floor plans in accessible SVG format, for example built with Visio.
 
