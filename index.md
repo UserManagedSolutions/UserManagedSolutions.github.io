@@ -4,6 +4,8 @@
  
  This site is dedicated to the solutions we make available on Microsoft AppSource, for SharePoint and Microsoft Teams.
  
+ Get started with [inPerson](About-inPerson)<img src="inPersonLogo300x300.png" width="24" />
+ 
  Follow our tips on our blog ["Path to SharePoint... and Beyond!"](https://blog.pathtosharepoint.com/)
  
- Contact: Christophe@UserManagedSolutions.com
+ [Contact us by email](mailto:Christophe@UserManagedSolutions.com)
